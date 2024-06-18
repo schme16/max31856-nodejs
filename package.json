@@ -26,6 +26,6 @@
 	},
 	"homepage": "https://github.com/kaelfischer/max31856-nodejs#readme",
 	"dependencies": {
-		"spi-device": "^2.0.2"
+		"spi-device": "^3.1.2"
 	}
 }
